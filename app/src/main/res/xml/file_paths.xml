@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- Public Documents folder (External Storage) -->
+    <external-path name="gold_data" path="Documents/Gold Knowledge/data" />
+    <external-path name="gold_images" path="Documents/Gold Knowledge/images" />
+    <external-path name="gold_temp" path="Documents/Gold Knowledge/temp" />
+
+    <!-- Cache path for camera capture -->
+    <cache-path name="camera_temp" path="." />
+    <external-cache-path name="external_camera_temp" path="." />
+
+    <!-- Fallback paths -->
+    <external-files-path name="external_files" path="Gold Knowledge" />
+    <files-path name="internal_files" path="Gold Knowledge" />
+</paths>

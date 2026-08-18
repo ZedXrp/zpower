@@ -1,0 +1,70 @@
+🚀 ZPower: Gold Knowledge Edition - Documentation
+
+ZPower ek high-end, Industrial Asset Management Tool hai jo "Offline-First" philosophy par kaam karta hai. Yeh normal notes apps se alag hai kyunki ise complex machines, thermal areas, aur industrial data ko organize karne ke liye design gaya hai.
+
+---
+
+💎 1. Core Logic: Parent-Child Hierarchy (6+ Levels)
+Industrial systems hamesha levels mein hote hain (jaise: Plant > Room > Panel > Relay). ZPower isi logic ko follow karta hai:
+1.  Thermal Area (Root)
+2.  Room
+3.  Panel
+4.  Relay
+5.  Child Process
+6.  Sub-Process (Infinite): Level 6 ke baad aap jitna chahe utna deep ja sakte hain (Level 7, 8, 9...).
+
+Kyun zaroori hai?: Taaki aap ek bade plant ki har ek choti se choti relay ya screw ka data uski sahi location (Parent) ke andar dhoond sakein.
+
+---
+
+🛠️ 2. Key Functions & Features
+
+🖼️ High-Resolution Visuals
+*   Full Screen Image View: Kisi bhi card ki image par click karte hi woh high-resolution mein full screen par open ho jati hai jise aap zoom bhi kar sakte hain.
+*   2-Second Long Press Preview: Agar aapko bina andar jaye kisi item ka pura data dekhna hai, toh card par 2 second tak long-press karein. Ek "Bubble Glass" window pop-up hogi jo poora detail dikhayegi.
+*   WebP Compression: App har photo (Camera/Gallery) ko automatically WebP format mein convert karti hai. Isse image ki quality wahi rehti hai par file size 90% tak kam ho jati hai (5MB ki photo sirf 200KB ki).
+
+🧠 Smart Data Entry
+*   Deep Branch Autofill: Maan lijiye aapne "Panel 1" banaya jisme 50 relays hain. Jab aap "Panel 2" banayenge, toh suggestion se "Panel 1" select karein aur "Full Branch" par click karein. App automatically Panel 1 ki saari 50 relays aur unka data Panel 2 mein copy kar degi.
+*   Undo/Redo: Add/Edit window mein typing karte waqt agar galti ho jaye, toh bottom-left mein Undo aur Redo buttons se aap pichle step par ja sakte hain.
+*   Batch Entry (+ Queue): Ek saath kai items likhein, "+" dabakar queue mein daalein, aur "Save All" karke ek baar mein upload karein.
+
+🔍 Search & Discovery
+*   Contextual Search: Jab aap kisi item ko search karke click karte hain, toh app aapko us list mein le jati hai jahan woh item apne "bhai-beheno" (Siblings) ke saath maujood hai.
+*   Path Visibility: Search result mein poora raasta dikhta hai (e.g., Plant > Room A > Panel 5).
+
+---
+
+📦 3. Data & Cloud Ecosystem (Telegram)
+
+📂 Local Mirroring
+App aapke phone ke Documents/Gold Knowledge/ folder ko apna "Master Mirror" maanti hai.
+*   Agar aap app mein kuch likhenge, toh woh turant folder ke data.json mein save ho jayega.
+*   Agar aap manually computer se data.json file badalte hain aur app mein Refresh dabate hain, toh app pura data file se utha legi.
+
+☁️ Telegram Cloud Sync
+*   Personal/Group Backup: Ek click mein ZIP banakar aapke Telegram bot ya group par backup bhej deta hai.
+*   Selective Restore: ZIP import karte waqt aap choose kar sakte hain ki sirf text data chahiye ya images bhi (Images ke bina restore bahut fast hota hai).
+*   Secure API: Aapka Bot API token encrypted aur locked hai. Aap chahein toh use backup se remove bhi kar sakte hain taaki koi aur aapka bot access na kar sake.
+
+---
+
+🎨 4. Liquid Glass UI Customization
+Yeh app normal boring industrial apps jaisi nahi dikhti:
+*   3-Point Gradient: User apne pasand ke 3 colors se background design kar sakta hai.
+*   Custom Wallpaper & Dimmer: Apni gallery se wallpaper lagayein aur use kitna dark (Dim) rakhna hai, slider se control karein.
+*   Apple Style Glass: Cards mein real physical glass jaisa reflection, internal glow, aur backdrop-blur hota hai.
+*   Glass Text Color: Wallpaper ke hisaab se aap text ka color bhi change kar sakte hain.
+
+---
+
+🛡️ 5. Why ZPower is Different?
+1.  Privacy: Koi external server nahi hai. Aapka data ya toh aapke phone mein hai (Gold Knowledge folder) ya aapke Telegram bot mein.
+2.  Portability: Bas Gold Knowledge folder ko copy karke kisi bhi phone mein daalein, app wahi se shuru ho jayegi jahan apne chhoda tha.
+3.  Speed: Local database aur WebP compression ki wajah se 10,000+ items hone par bhi app lag nahi karti.
+4.  Professional Control: "Delete All Data" jaise khatarnak actions par 5-second ka safety lock diya gaya hai taaki galti se data na ude.
+
+---
+Developer: @zedxrp
+Support Email: abdullahexpain@gmail.com
+Donation: paypal.me/abdullahexplain

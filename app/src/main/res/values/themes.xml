@@ -1,0 +1,10 @@
+<resources>
+
+    <style name="Theme.ZPower" parent="Theme.MaterialComponents.Light" />
+
+    <style name="Theme.App.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#FFFFFF</item>
+        <item name="windowSplashScreenAnimatedIcon">@mipmap/ic_launcher</item>
+        <item name="postSplashScreenTheme">@style/Theme.ZPower</item>
+    </style>
+</resources>
