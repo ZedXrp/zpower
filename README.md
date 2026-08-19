@@ -3,7 +3,14 @@
 > **Documentation**
 > ZPower is a high-end, Industrial Asset Management Tool built on an **Offline-First** philosophy. Unlike standard note-taking apps, it is engineered specifically to organize complex machinery, thermal areas, and heavy industrial data.
 
----
+---<img width="1080" height="2400" alt="Screenshot_20260819-064558_ZPower" src="https://github.com/user-attachments/assets/665aa102-0b4c-426d-85b4-b903c1db4f3d" />
+<img width="1040" height="4499" alt="Screenshot_20260819-064606_ZPower" src="https://github.com/user-attachments/assets/fc58b59d-1c41-4f59-bc5a-b8be30cf5771" />
+<img width="1080" height="2400" alt="Screenshot_20260819-064632_ZPower" src="https://github.com/user-attachments/assets/631e41cf-519f-46a5-b73a-d613d4f763a3" />
+<img width="1080" height="2400" alt="Screenshot_20260819-064459_ZPower" src="https://github.com/user-attachments/assets/100fe05d-4256-4161-bb6b-74abd96603c2" />
+<img width="1080" height="2400" alt="Screenshot_20260819-064506_ZPower" src="https://github.com/user-attachments/assets/92696c5a-aedf-4d93-9894-9ae3d885c08b" />
+<img width="1080" height="2400" alt="Screenshot_20260819-064541_ZPower" src="https://github.com/user-attachments/assets/01755252-b855-4c4a-a41d-57552a461312" />
+<img width="1040" height="3218" alt="Screenshot_20260819-064548_ZPower" src="https://github.com/user-attachments/assets/8e30741c-e575-4518-b5b6-e152d051c0c8" />
+
 
 ## 💎 1. Core Logic: Parent-Child Hierarchy (6+ Levels)
 
