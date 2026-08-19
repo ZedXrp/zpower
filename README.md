@@ -1,3 +1,4 @@
+<img width="1080" height="2400" alt="22179" src="https://github.com/user-attachments/assets/6afd0994-b26c-49ca-88ca-95f639e3c350" />
 # ⚡ ZPower
 
 > **Documentation**
